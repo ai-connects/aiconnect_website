@@ -118,12 +118,10 @@ nav.scrolled {
   border-bottom: 1px solid var(--border);
 }
 .nav-logo {
-  font-family: 'Pretendard', sans-serif;
-  font-weight: 700; font-size: 18px; letter-spacing: 0.5px;
+  display: inline-flex; align-items: center;
   text-decoration: none;
 }
-.nav-logo .ai { color: var(--accent); }
-.nav-logo .connect { color: var(--text); }
+.nav-logo img { height: 24px; width: auto; display: block; }
 .nav-links { display: flex; gap: 32px; }
 .nav-links a {
   font-family: 'Pretendard', sans-serif;
@@ -689,7 +687,7 @@ body { } /* handled by JS */
 
 <!-- NAVBAR -->
 <nav id="navbar">
-  <a href="#hero" class="nav-logo"><span class="ai">AI</span><span class="connect">CONNECT</span></a>
+  <a href="#hero" class="nav-logo" aria-label="AI Connect"><img src="/aiconnect-logo-white.png" alt="AI Connect"></a>
   <div class="nav-links">
     <a href="#hero">Home</a>
     <a href="#builder">Team</a>

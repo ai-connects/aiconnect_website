@@ -3,6 +3,9 @@
   "buildCommand": null,
   "outputDirectory": ".",
   "redirects": [
+    { "source": "/cookie-policy", "destination": "/", "permanent": true },
+    { "source": "/people", "destination": "/", "permanent": true },
+    { "source": "/news/:path*", "destination": "/", "permanent": true },
     { "source": "/about", "destination": "/", "permanent": true },
     { "source": "/about-us", "destination": "/", "permanent": true },
     { "source": "/team", "destination": "/", "permanent": true },

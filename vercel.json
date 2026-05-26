@@ -1,5 +1,33 @@
 {
   "framework": null,
   "buildCommand": null,
-  "outputDirectory": "."
+  "outputDirectory": ".",
+  "redirects": [
+    { "source": "/about", "destination": "/", "permanent": true },
+    { "source": "/about-us", "destination": "/", "permanent": true },
+    { "source": "/team", "destination": "/", "permanent": true },
+    { "source": "/careers", "destination": "/", "permanent": true },
+    { "source": "/jobs", "destination": "/", "permanent": true },
+    { "source": "/contact", "destination": "/", "permanent": true },
+    { "source": "/contact-us", "destination": "/", "permanent": true },
+    { "source": "/blog", "destination": "https://blog.aihavit.com/", "permanent": true },
+    { "source": "/blog/:path*", "destination": "https://blog.aihavit.com/", "permanent": true },
+    { "source": "/products", "destination": "/", "permanent": true },
+    { "source": "/product", "destination": "/", "permanent": true },
+    { "source": "/services", "destination": "/", "permanent": true },
+    { "source": "/service", "destination": "/", "permanent": true },
+    { "source": "/pricing", "destination": "/", "permanent": true },
+    { "source": "/privacy", "destination": "/", "permanent": true },
+    { "source": "/privacy-policy", "destination": "https://aihavit.com/privacy.html", "permanent": true },
+    { "source": "/terms", "destination": "/", "permanent": true },
+    { "source": "/terms-of-service", "destination": "https://aihavit.com/terms.html", "permanent": true },
+    { "source": "/news", "destination": "/", "permanent": true },
+    { "source": "/press", "destination": "/", "permanent": true },
+    { "source": "/founders", "destination": "/", "permanent": true },
+    { "source": "/company", "destination": "/", "permanent": true },
+    { "source": "/investors", "destination": "/", "permanent": true },
+    { "source": "/home", "destination": "/", "permanent": true },
+    { "source": "/index", "destination": "/", "permanent": true },
+    { "source": "/main", "destination": "/", "permanent": true }
+  ]
 }

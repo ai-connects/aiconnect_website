@@ -1,0 +1,31 @@
+# AI Connect Inc.
+
+> A Seoul-based company digitalizing premium metabolic health — care that previously required expensive equipment, specialist clinics, and dedicated coordinators is now accessible to anyone with a smartphone.
+
+AI Connect Inc. builds AI-powered wellness products. The core product is HAVIT, a metabolic-health companion app that takes users through diagnosis → prescription → daily adaptive coaching. The mission: a healthy, vibrant life for every single person in the world, delivered through a smartphone rather than a clinic.
+
+## Sections of This Site
+
+- [Hero — Mission](https://www.aiconnects.me/#hero): "A healthy, vibrant life for every single person in the world"
+- [Team / Builders](https://www.aiconnects.me/#builder): the people behind AI Connect
+- [Company History](https://www.aiconnects.me/#history): milestones from founding to current product
+- [How HAVIT Works](https://www.aiconnects.me/#close): metabolic-science diagnosis → personalized prescription → coaching
+
+## Products & Ecosystem
+
+- [HAVIT (product site)](https://www.aihavit.com/): the metabolic wellness app — features, validation, downloads
+- [Get the HAVIT App](https://app.aihavit.com/): platform-detecting universal link → iOS / Android
+- [HAVIT Blog](https://blog.aihavit.com/): 1,086+ science-backed wellness articles in 10 languages
+- [Wellness Calculators](https://blog.aihavit.com/en/tools): BMR/TDEE, protein, hydration, caffeine cutoff, sleep cycle
+
+## Company Info
+
+- Legal: AI Connect Inc., Seoul, South Korea
+- Business Reg: 306-86-03160
+- Contact: `help@aiconnects.me`
+- Representative: Ryan Yun
+
+## Optional
+
+- [Sitemap](https://www.aiconnects.me/sitemap.xml)
+- [robots.txt](https://www.aiconnects.me/robots.txt)

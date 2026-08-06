@@ -22,7 +22,7 @@ AI Connect Inc. builds AI-powered wellness products. The core product is HAVIT, 
 
 - Legal: AI Connect Inc., Seoul, South Korea
 - Business Reg: 306-86-03160
-- Contact: `help@aiconnects.me`
+- Contact: `havit@aihavit.com`
 - Representative: Ryan Yun
 
 ## Optional

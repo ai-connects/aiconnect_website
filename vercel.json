@@ -24,6 +24,11 @@
       "permanent": true
     },
     {
+      "source": "/",
+      "destination": "https://www.aihavit.com/",
+      "permanent": true
+    },
+    {
       "source": "/:path*",
       "destination": "https://www.aihavit.com/",
       "permanent": true

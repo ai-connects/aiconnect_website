@@ -5,22 +5,22 @@
   "redirects": [
     {
       "source": "/blog",
-      "destination": "https://blog.aihavit.com/",
+      "destination": "https://www.aihavit.com/blog",
       "permanent": true
     },
     {
       "source": "/blog/:path*",
-      "destination": "https://blog.aihavit.com/",
+      "destination": "https://www.aihavit.com/blog",
       "permanent": true
     },
     {
       "source": "/privacy-policy",
-      "destination": "https://aihavit.com/privacy.html",
+      "destination": "https://www.aihavit.com/privacy.html",
       "permanent": true
     },
     {
       "source": "/terms-of-service",
-      "destination": "https://aihavit.com/terms.html",
+      "destination": "https://www.aihavit.com/terms.html",
       "permanent": true
     },
     {
